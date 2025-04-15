@@ -22,6 +22,6 @@ M. Almahasneh, A. Paiement, X. Xie, J. Aboudarham (2022).
 **MSMT-CNN for Solar Active Region Detection with Multi-Spectral Analysis.**  
 *Springer Nature Computer Science.*
 
-## 📬 Contact
-For questions or collaboration, feel free to reach out:  
-**mjdmahasneh@live.com**
+
+Feel free to reach out for questions or collaboration.
+
